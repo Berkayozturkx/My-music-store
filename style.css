@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+
+}
+
+a {
+
+    text-decoration: none;
+    font-family: Arial;
+    margin-top: 20px;
+    margin-right: 20px;
+    color:white;
+    
+}
+
+a#red {
+    color:red;
+}
+
+header {
+    background-color: rgb(94, 85, 85);
+    height: 50px;
+}
+
+article {
+    text-align: center;
+}
+
+ul > li {
+    list-style-position: inside;
+}
+
+footer {
+    text-align: center;
+}
+
+footer button {
+    margin: 10px;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: lightseagreen;
+    color: white;
+    border: 1px solid black;
+}
+
+body {
+    background-color: #E9ECEF;
+    font-family: Arial;
+}
+
+h1 {
+    margin-top: 15px;
+    color: red;
+    font-size: 40px;
+}
+
+h2 {
+    color: orange;
+    text-align: center;
+}
+h2#mp-h2 {
+    text-align: center;
+}
+article.about-us p, h2 {
+    text-align: left;
+    margin-left: 20px;
+}
